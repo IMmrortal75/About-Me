@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IMmrortal75
+- 👋 Hi, I’m @Nikhil Pathak
 - 👀 I’m interested in Programming
 - 🌱 Currently BCA at Chandigarh University 
 - 💞️ I’m Currently Learning C++
